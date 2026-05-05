@@ -25,7 +25,7 @@ tags: [字幕组, 教程, 小版本, HandBrake]
    <center><img src="/assets/img/post/2025-01-14-how-to-compress-small-version-video-by-handbrake/open.webp" alt= "handbrake.open"></center>
    <br/>
 
-2. 点击下载预设：[540p 16/9 小版本 QAF.json](https://github.com/callmexin2024/callmexin2024.github.io/blob/master/downloads/540p_16%3A9_%E5%B0%8F%E7%89%88%E6%9C%AC_QAF.json)
+2. 点击下载预设：[540p 16/9 小版本 QAF.json](https://github.com/cmxin24/cmxin24.github.io/blob/master/downloads/540p_16%3A9_%E5%B0%8F%E7%89%88%E6%9C%AC_QAF.json)
 
    <center><img src="/assets/img/post/2025-01-14-how-to-compress-small-version-video-by-handbrake/download_preset.webp" alt= "download.preset"></center>
    <br/>
